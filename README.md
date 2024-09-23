@@ -1,4 +1,3 @@
-![UseCaseDiagram1](https://github.com/user-attachments/assets/7bd3aff8-03e8-4fa0-8be0-f39e3dc8af8b)# Doctor Management System
 
 ## Project Overview
 The **Doctor Management System** is designed to manage hospital operations such as doctor management, patient registration, appointment booking, and user login (admin, doctor, and patient). The system is built using Java Swing for the GUI, and MySQL for the database.
