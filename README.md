@@ -134,7 +134,7 @@ Here are some screenshots of the system:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/DoctorManagementSystem.git
+    git clone https://github.com/cseganesh/Hospital-Management-System
     ```
 
 2. **Import the Project**:
