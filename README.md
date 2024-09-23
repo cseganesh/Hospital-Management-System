@@ -1,4 +1,4 @@
-# Doctor Management System
+![UseCaseDiagram1](https://github.com/user-attachments/assets/7bd3aff8-03e8-4fa0-8be0-f39e3dc8af8b)# Doctor Management System
 
 ## Project Overview
 The **Doctor Management System** is designed to manage hospital operations such as doctor management, patient registration, appointment booking, and user login (admin, doctor, and patient). The system is built using Java Swing for the GUI, and MySQL for the database.
@@ -33,7 +33,8 @@ The use case diagram for this system includes three primary actors:
 2. **Doctor**: Can view schedules and appointments.
 3. **Patient**: Can register, log in, and book appointments.
 
-![UseCaseDiagram1](https://github.com/user-attachments/assets/b3407ad8-470a-478e-9191-97443d8a4b52)
+![UseCaseDiagram1](https://github.com/user-attachments/assets/394d2581-c805-4517-8e17-bc8b0202e346)
+
 
 ---
 
@@ -42,58 +43,70 @@ The use case diagram for this system includes three primary actors:
 
 Here are some screenshots of the system:
  ## Home Page
-![Screenshot 2024-09-23 110417](https://github.com/user-attachments/assets/0ac56ebb-e016-4ac1-8f38-053c79a96b60)
+![Screenshot 2024-09-23 110417](https://github.com/user-attachments/assets/fbcbf601-83d4-489d-b79b-630514c4071d)
+
 
 ## Login Page
-![Screenshot 2024-09-23 111130](https://github.com/user-attachments/assets/21df6780-725a-4950-bfe0-507df4a525c4)
+![Screenshot 2024-09-23 111130](https://github.com/user-attachments/assets/8e76f2da-6f93-4e11-9180-bf987b817ecf)
+
 
 
 ## Admin Page
-![Screenshot 2024-09-23 111907](https://github.com/user-attachments/assets/5463f75e-aad0-4a2f-9d28-48275b9fa322)
+![Screenshot 2024-09-23 111907](https://github.com/user-attachments/assets/5c5dd8ae-09aa-4078-95c2-276dc84420e4)
+
 
 
 ## AdminDashboard Page
-![Screenshot 2024-09-23 112218](https://github.com/user-attachments/assets/38ffee5b-5e72-488d-b4b2-8166d8b5f7b2)
+![Screenshot 2024-09-23 112218](https://github.com/user-attachments/assets/51f71f31-9815-48b1-9120-e6b2475a3806)
+
 
 
 ## Add Doctor 
-![Screenshot 2024-09-23 112921](https://github.com/user-attachments/assets/ee5f147b-3e53-407a-886d-595d8ae4caf6)
+![Screenshot 2024-09-23 112921](https://github.com/user-attachments/assets/efca2725-82e7-40dd-81ae-ede673e9c5a3)
+
 
 
 ## Doctor Login Page
-![Screenshot 2024-09-23 113442](https://github.com/user-attachments/assets/79f134b0-da6e-4340-9f80-f2171e0e13ec)
+![Screenshot 2024-09-23 113442](https://github.com/user-attachments/assets/5951df9c-4d65-4c85-932f-d1753f724d0c)
 
 
 ## Doctor Dashboard Page
-![Screenshot 2024-09-23 113850](https://github.com/user-attachments/assets/899dd9fa-2bea-4f32-9a34-6a82675b279f)
+![Screenshot 2024-09-23 113850](https://github.com/user-attachments/assets/cd1ce590-964d-4a96-af23-4a27b28c68af)
+
 
 
 ## View Doctor Page
-![Screenshot 2024-09-23 114618](https://github.com/user-attachments/assets/3f8886dd-3f8c-41c3-ab4c-0cca0b32279d)
+![Screenshot 2024-09-23 114618](https://github.com/user-attachments/assets/b13ec8ae-56d3-41c3-9796-82e0754c05a3)
+
 
 
 ## Register Page
-![Screenshot 2024-09-23 115728](https://github.com/user-attachments/assets/8c8d3e1b-e894-4209-a90e-ebaf0d8d63a8)
+![Screenshot 2024-09-23 115728](https://github.com/user-attachments/assets/9b57a05f-64c7-4244-a5c3-0101134a1ab2)
+
 
 
 ## Patient Page
-![Screenshot 2024-09-23 120423](https://github.com/user-attachments/assets/6411c54d-41b4-4949-905e-29740310d21d)
+![Screenshot 2024-09-23 120423](https://github.com/user-attachments/assets/dde4120f-784a-49a3-b271-e1c5ff6b17d8)
+
 
 
 ## Patient Login Page
-![Screenshot 2024-09-23 120703](https://github.com/user-attachments/assets/086d7e9a-d295-494e-bee3-5641acfc9510)
+![Screenshot 2024-09-23 120703](https://github.com/user-attachments/assets/661eabfd-0351-468b-aa01-11d8953d361e)
 
 
 ## Patient Dashboard Page
-![Screenshot 2024-09-23 121030](https://github.com/user-attachments/assets/11ffdf2b-90bd-4395-8882-d48a447505a9)
+![Screenshot 2024-09-23 121030](https://github.com/user-attachments/assets/e6daf8f3-0b57-4293-bf32-6ca0710db671)
+
 
 
 ## View Patient Page
-![Screenshot 2024-09-23 121549](https://github.com/user-attachments/assets/b1397282-2cc7-44dd-88ab-e7e9558c7989)
+![Screenshot 2024-09-23 121549](https://github.com/user-attachments/assets/3f6987f4-a7ed-48a4-bdfa-afe23f045693)
+
 
 
 ## Payment Page
-![Screenshot 2024-09-23 121944](https://github.com/user-attachments/assets/0015089a-ea43-4416-a3ca-1923749b3b07)
+![Screenshot 2024-09-23 121944](https://github.com/user-attachments/assets/c27f82c7-298a-48b7-86a4-ed2b06b82761)
+
 
 
 
